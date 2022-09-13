@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @teddygunnar
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning ReactJS and Javascript
 - 📫 Email teddygunnar@gmail.com to reach me!
 
 <!---
